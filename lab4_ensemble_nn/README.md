@@ -1,4 +1,4 @@
-# README к файлу lab4_ensemble_nn.ipynb
+# README к файлу lab3_ensemble_nn.ipynb
 
 ## Лабораторная работа №3
 **Ансамбли и полносвязные нейронные сети**
